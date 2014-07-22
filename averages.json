@@ -5,14 +5,14 @@
     "median":"",
     "mode":"",
     "src":["http://www.bls.gov/tus/current/personal.htm"]
-    }
+    },
   "wake_time":{
     "title":"Wake up time.",
     "mean":"",
     "median":"",
-    "mode":"6:30am"
+    "mode":"6:30am",
     "src":["http://www.bls.gov/tus/tables/a3_0711.htm"]
-  }
+   },
   "bed_time":{
     "title":"Bed time.",
     "mean":"",
