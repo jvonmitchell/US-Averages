@@ -1,23 +1,75 @@
 ---
   hours_sleep_per_day: 
     title: "Hours sleep per day."
-    mean: 8.7
-    median: ""
-    mode: ""
+    mean: 8.74
+    median: null
+    mode: null
     src: 
       - "http://www.bls.gov/tus/current/personal.htm"
-  wake_time: 
+  wake_up_time: 
     title: "Wake up time."
-    mean: ""
-    median: ""
-    mode: "6:30am"
+    mean: null
+    median: null
+    mode: "7:00am"
     src: 
       - "http://www.bls.gov/tus/tables/a3_0711.htm"
   bed_time: 
     title: "Bed time."
-    mean: ""
-    median: ""
-    mode: "10:30pm"
+    mean: null
+    median: null
+    mode: "11:00pm"
     src: 
       - "http://www.bls.gov/tus/tables/a3_0711.htm"
+  work_start: 
+    title: "Start of work day."
+    mean: null
+    median: null
+    mode: "8:00am"
+    src: 
+      - "http://www.bls.gov/tus/tables/a3_0711.htm"
+    notes: "There are many notable modes in this data set."
+  work_end: 
+    title: "End of work day."
+    mean: null
+    median: null
+    mode: "5:00am"
+    src: 
+      - "http://www.bls.gov/tus/tables/a3_0711.htm"
+    notes: "There are many notable modes in this data set."
+  hours_work_per_day: 
+    title: "Number of hours worked on average per day."
+    mean: 3.46
+    median: null
+    mode: null
+    src: 
+      - "http://www.bls.gov/tus/tables/a1_2013.pdf"
+  minutes_learning: 
+    title: "Number of minutes spent on education."
+    mean: 29
+    median: null
+    mode: null
+    src: 
+      - "http://www.bls.gov/tus/tables/a1_2013.pdf"
+    notes: "I think it is safe to say that median and mode are near 0 based on how small the mean is."
+  hours_in_leisure: 
+    title: "Average number of hours spent on recreation per person per day."
+    mean: 5.26
+    median: null
+    mode: null
+    src: 
+      - "http://www.bls.gov/tus/tables/a1_2013.pdf"
+  hours_watching_tv: 
+    title: "Number of hours of tv watched on average per person per day."
+    mean: 2.77
+    median: null
+    mode: null
+    src: 
+      - "http://www.bls.gov/tus/tables/a1_2013.pdf"
+  minutes_exercise: 
+    title: "Average amount of exercisize a day measured in minutes."
+    mean: "19"
+    median: null
+    mode: null
+    src: 
+      - "http://www.bls.gov/tus/tables/a1_2013.pdf"
 
