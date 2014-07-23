@@ -32,7 +32,7 @@
     title: "End of work day."
     mean: null
     median: null
-    mode: "5:00am"
+    mode: "5:00pm"
     src: 
       - "http://www.bls.gov/tus/tables/a3_0711.htm"
     notes: "There are many notable modes in this data set."
