@@ -8,14 +8,14 @@
   },
  "wake_up_time":{
    "title":"Wake up time.",
-   "mean":null,
+   "mean":"6:53am",
    "median":null,
    "mode":"7:00am",
    "src":["http://www.bls.gov/tus/tables/a3_0711.htm"]
   },
  "bed_time":{
    "title":"Bed time.",
-   "mean":null,
+   "mean":"10:27pm",
    "median":null,
    "mode":"11:00pm",
    "src":["http://www.bls.gov/tus/tables/a3_0711.htm"]
